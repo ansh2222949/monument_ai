@@ -123,9 +123,6 @@ MONUMENT_AI/
 ### 2️⃣ Installation
 
 ```bash
-# Clone the repo
-git clone [https://github.com/YourUsername/MonumentAI.git](https://github.com/YourUsername/MonumentAI.git)
-cd MonumentAI
 
 # Install dependencies
 pip install -r requirements.txt
